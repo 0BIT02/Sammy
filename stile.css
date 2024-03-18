@@ -22,7 +22,7 @@ header {
     padding: 10px;
     background-color: #736780;
     /* Gris claro */
-    border-radius: 50px;
+    border-radius: 40px;
     color: aliceblue;
 }
 
@@ -31,7 +31,7 @@ p{
     font-optical-sizing: auto;
     font-weight: weight;
     font-style: normal;
-    font-size: xx-larger;
+    font-size: 30px;
 }
 
 button {
