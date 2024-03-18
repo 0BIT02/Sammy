@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #5e4f6e;
+    /* Púrpura/lila */
+}
+
+header {
+    background-color: #4E5176;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    font-family: "Tangerine", cursive;
+    font-weight: 700;
+    font-style: normal;
+    font-size: x-large;
+}
+
+.main-content {
+    text-align: center;
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 10px;
+    background-color: #736780;
+    /* Gris claro */
+    border-radius: 5px;
+    color: aliceblue;
+}
+
+p{
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size:larger;
+}
+
+button {
+    background-color: #9370db;
+    /* Lavanda */
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    margin-right: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: transform 0.3s;
+}
+
+button:hover {
+    transform: scale(1.1);
+}
+
+footer {
+    text-align: center;
+    padding: 0.1rem;
+    background-color: #4E5176;
+    color: white;
+    font-family: "Tangerine", cursive;
+    font-weight: 700;
+    font-style: normal;
+    font-size:x-large;
+}
